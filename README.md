@@ -21,5 +21,8 @@
 <h3>Habilidades Adquiridas</h3>
 Desenvolvimento de algoritmos de agrupamento no contexto da inteligência computacional.
 
+<h3>Referências</h3>
+[1] Bezdek, J. C. (1981). Pattern Recognition with Fuzzy Objective Function Algorithms. Plenum Press, New York. [2] Pimentel, B.A. e Souza, R.M.C.R. (2013). A Multivariate Fuzzy C-Means Method. Applied Soft Computing (Print). Applied Soft Computing, v.13, p.1592 - 1607. [3] Jajuga, Krzysztof (1991) L1-norm based fuzzy clustering. Fuzzy Sets and Systems 39 (1991) 43-50. [4] Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). Data clustering: a review. ACM computing surveys (CSUR), 31(3), 264-323. [5] Jain, A. K. (2010). Data clustering: 50 years beyond K-means. Pattern Recognition Letters, 31(8), 651-666.
+
 
 
